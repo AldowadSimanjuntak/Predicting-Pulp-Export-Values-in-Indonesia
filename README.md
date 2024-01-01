@@ -4,3 +4,5 @@ In this project, I utilized Long Short Term Memory (LSTM) models to predict futu
 ## Published
 
 If you are interested in more information, please read [this article](http://journal.thamrin.ac.id/index.php/jtik/article/view/1599).
+
+University Prima Indonesia
