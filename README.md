@@ -11,3 +11,10 @@ If you are interested in more information, please read [this article](http://jou
 
 
 University Prima Indonesia - 2023
+
+## Contribution
+Feel free to explore the codebase and documentation to gain a deeper understanding of the project.
+
+For any questions or further information, please reach out me
+
+Thank you for visiting the repository!
